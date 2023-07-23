@@ -1,0 +1,1 @@
+getImageForWeather(String iconId) => "https://openweathermap.org/img/wn/$iconId@2x.png";
