@@ -3,7 +3,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/NI-KI-TA-KR/weather-app) ![GitHub last commit](https://img.shields.io/github/last-commit/NI-KI-TA-KR/weather-app)
 
 <p align="center">
-<img src="https://github.com/NI-KI-TA-KR/Cats-my-Facts/blob/0447648f6f64bfcaa71486818dc8211ebda364af/previews/demo.png"/>
+<img src="https://github.com/NI-KI-TA-KR/weather-app/blob/dev/previews/demo.png"/>
 </p>
 
 ## Download
