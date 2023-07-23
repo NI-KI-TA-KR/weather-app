@@ -1,16 +1,21 @@
-# weather_app
+# Weather APP
 
-A new Flutter project.
+![GitHub top language](https://img.shields.io/github/languages/top/NI-KI-TA-KR/weather-app) ![GitHub last commit](https://img.shields.io/github/last-commit/NI-KI-TA-KR/weather-app)
 
-## Getting Started
+<p align="center">
+<img src="https://github.com/NI-KI-TA-KR/weather-app/blob/dev/previews/demo.png"/>
+</p>
 
-This project is a starting point for a Flutter application.
+## Download
+Go to the [Releases](previews/app-release.apk) to download the latest APK.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Flutter package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- State Managment [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+- Responsive UI easily [Size](https://pub.dev/packages/sizer)
+- Database [Hive](https://pub.dev/packages/hive)
+
+## Open Api
+
+Application using the [OpenWeathermap](https://openweathermap.org/) for constructing RESTful API weather.<br>
